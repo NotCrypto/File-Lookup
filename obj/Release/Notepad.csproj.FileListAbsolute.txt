@@ -1,0 +1,6 @@
+C:\Users\banan\Documents\GitHub\File-Lookup\bin\Release\Notepad.exe.config
+C:\Users\banan\Documents\GitHub\File-Lookup\bin\Release\Notepad.exe
+C:\Users\banan\Documents\GitHub\File-Lookup\bin\Release\Notepad.pdb
+C:\Users\banan\Documents\GitHub\File-Lookup\obj\Release\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\banan\Documents\GitHub\File-Lookup\obj\Release\Notepad.exe
+C:\Users\banan\Documents\GitHub\File-Lookup\obj\Release\Notepad.pdb

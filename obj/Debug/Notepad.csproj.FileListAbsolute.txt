@@ -6,3 +6,5 @@ C:\Users\chino\source\repos\Notepad\obj\Debug\Notepad.exe
 C:\Users\chino\source\repos\Notepad\obj\Debug\Notepad.pdb
 C:\Users\banan\Desktop\Lookup-master\obj\Debug\Notepad.exe
 C:\Users\banan\Desktop\Lookup-master\obj\Debug\Notepad.pdb
+C:\Users\banan\Documents\GitHub\File-Lookup\obj\Debug\Notepad.exe
+C:\Users\banan\Documents\GitHub\File-Lookup\obj\Debug\Notepad.pdb
