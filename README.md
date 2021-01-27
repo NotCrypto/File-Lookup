@@ -7,11 +7,11 @@ Welcome to my Respo. Here below you can find an Explaination. i hope you enjoy t
 <hr>
 
 <p align='center'> 📰Explaination | This is a program that makes it possible to log in and then specify a file that ends with ".txt" and then you can add a text and then it searches through the entire file for the "text" that you gave up!
- You have to put the text file in the same file as the executable called "Notepad.exe" you can find it [Here](https://github.com/NotCrypto/File-Lookup/tree/main/bin/Debug).
+ You have to put the text file in the same file as the executable called "Notepad.exe" you can find it [Here](https://github.com/NotCrypto/File-Lookup/tree/main/bin/Debug)
  PS: If you want to edit the program ask me for permission. Are you in trouble? "N-O-T C R Y P T O # 7589"
  </p>
  
 
 
 Thanks for contributing SirSloth#0224 <br>
-[SirSlotth's Github](https://github.com/SlothsAreLazyTho)
+[SirSloth's Github](https://github.com/SlothsAreLazyTho)
