@@ -11,7 +11,7 @@
     <li>Clone or Download the Repository</li>
     <li>Make a folder called "File-Lookup" on your desktop</li>
     <li>Open the downloaded folder</li>
-    <li>Go to bin/Debug/ in the folder you opened at "Step 3"</li>
+    <li>Go to bin/Release/ in the folder you opened at "Step 3"</li>
     <li>Drag the "Notepad.exe" file into your folder you created at your desktop</li>
     <li>Final. Drag and drop a ".txt" file in your created folder</li>
     <li>Username: root & Password: root</li>
