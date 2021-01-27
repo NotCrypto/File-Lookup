@@ -37,5 +37,5 @@ Thanks for contributing SirSloth#0224 <br> [SirSloth's Github](https://github.co
 
 <p align='center'><h1>📰 | Resources</h1></p>
 
-# [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net48)
-# [Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
+# <p>[.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework/net48)</p>
+# <p>[Visual Studio 2019](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)</p>
